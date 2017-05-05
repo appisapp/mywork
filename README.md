@@ -1,0 +1,2 @@
+# mywork
+a ssm example
