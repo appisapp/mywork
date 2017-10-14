@@ -1,2 +1,1 @@
 # mywork
-a ssm example
